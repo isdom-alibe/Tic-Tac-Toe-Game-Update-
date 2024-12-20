@@ -1,7 +1,7 @@
 # Tic-Tac-Toe Game 🎮  
 
 This is a simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. You can play it with a friend, and it’s a great example of my ability to create interactive web applications. The game features a two-player mode where each player takes turns to place their mark (X or O) on the grid. 
-This is an Update of the Tic Tac Toe game I made because there was a problem with the uploading of the original one. Here is the link of the website: 
+This is an Update of the Tic Tac Toe game I made because there was a problem with the uploading of the original one. Here is the link of the website: https://isdom-alibe.github.io/Tic-Tac-Toe-Game-Update-/
 
 ## 🌟 Features  
 - Two-player mode (you can play with a friend)  
